@@ -1,0 +1,20 @@
+{
+    "asset": "a8f29a5f5371e4cdcb463ad69c558c31",
+    "fileName": "0198d123-6136-7311-a5b4-ff5419975d9a.jpg",
+    "prompt": "avatar frame with javanese culture theme",
+    "negativePrompt": "flower",
+    "model": "55f71215-6b73-4707-881e-69c61aca68c0",
+    "modelName": "3D Icons",
+    "customSeed": -1,
+    "w3CTraceId": "ee6c731b1437342fe0472bb85e97a4c0",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

@@ -1,0 +1,29 @@
+{
+    "asset": "e5775577c28284062aafd7f237b94ee1",
+    "fileName": "0198d0ee-4c27-731c-a313-f85d61ab4330.png",
+    "prompt": "chiby javanese boy smiling cherfully, with black blankon and jarek for the pant, and the jas i black javanese clothes, but one person",
+    "negativePrompt": "background, clutter, shadows, text, blurry",
+    "model": "de7dd170-a573-4d45-9da2-89b1ff778408",
+    "modelName": "3D Cartoon Characters",
+    "customSeed": -1,
+    "w3CTraceId": "799e11bccd73ee4014cd075ca999a2aa",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 8,
+                "doodle": [],
+                "label": "Style",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "4154626c48248424a86f865b70de993a"
+            }
+        ]
+    },
+    "upscaleFactor": 0
+}

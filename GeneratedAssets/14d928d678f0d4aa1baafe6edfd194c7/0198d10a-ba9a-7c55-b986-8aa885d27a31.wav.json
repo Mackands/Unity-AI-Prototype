@@ -1,0 +1,13 @@
+{
+    "asset": "14d928d678f0d4aa1baafe6edfd194c7",
+    "fileName": "0198d10a-ba9a-7c55-b986-8aa885d27a31.wav",
+    "prompt": "Bird Sound or bird singing",
+    "negativePrompt": "noise, reverb, distorted",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "7867654c7fccf9ccfe7b65cf8e16f48d",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

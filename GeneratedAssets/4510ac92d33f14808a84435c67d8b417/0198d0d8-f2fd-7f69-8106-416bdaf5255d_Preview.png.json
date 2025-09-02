@@ -1,0 +1,11 @@
+{
+    "asset": "4510ac92d33f14808a84435c67d8b417",
+    "fileName": "0198d0d8-f2fd-7f69-8106-416bdaf5255d_Preview.png",
+    "prompt": "ground landscape with javanese terrain",
+    "negativePrompt": "rock, water, metal, trash",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 69720058,
+    "w3CTraceId": "94fd489333976bd9d9e765f6f790aa97",
+    "refinementMode": "Generation"
+}

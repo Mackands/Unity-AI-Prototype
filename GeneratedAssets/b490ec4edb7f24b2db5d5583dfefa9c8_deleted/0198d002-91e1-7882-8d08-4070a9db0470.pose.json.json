@@ -1,0 +1,11 @@
+{
+    "asset": "b490ec4edb7f24b2db5d5583dfefa9c8",
+    "fileName": "0198d002-91e1-7882-8d08-4070a9db0470.pose.json",
+    "prompt": "A set of character animations for a customization screen, including idle, walking, running, and turning animations.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 821942252,
+    "w3CTraceId": "d8d3d2bc2dbd5248206418cc1a72ad91",
+    "isTrimmed": false
+}

@@ -1,0 +1,11 @@
+{
+    "asset": "e8fb20249178841159746d024024d7b4",
+    "fileName": "0198d0ab-62bc-7347-a8f8-9b073adcb213.pose.json",
+    "prompt": "Slow idle animation while hand is hello gesture\n",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 930289355,
+    "w3CTraceId": "3dddbb462eb63086091fa283ac2ad138",
+    "isTrimmed": false
+}

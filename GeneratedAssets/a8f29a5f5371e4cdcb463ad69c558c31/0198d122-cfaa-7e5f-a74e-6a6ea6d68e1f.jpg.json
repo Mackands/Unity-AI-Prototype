@@ -1,0 +1,20 @@
+{
+    "asset": "a8f29a5f5371e4cdcb463ad69c558c31",
+    "fileName": "0198d122-cfaa-7e5f-a74e-6a6ea6d68e1f.jpg",
+    "prompt": "avatar frame with javanese culture theme",
+    "negativePrompt": "",
+    "model": "55f71215-6b73-4707-881e-69c61aca68c0",
+    "modelName": "3D Icons",
+    "customSeed": -1,
+    "w3CTraceId": "9ac74351438df37c700b13cbd6a31bbc",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

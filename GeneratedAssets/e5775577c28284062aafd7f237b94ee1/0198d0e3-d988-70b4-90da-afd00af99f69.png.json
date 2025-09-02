@@ -1,0 +1,29 @@
+{
+    "asset": "e5775577c28284062aafd7f237b94ee1",
+    "fileName": "0198d0e3-d988-70b4-90da-afd00af99f69.png",
+    "prompt": "chiby javanese boy smiling cherfully",
+    "negativePrompt": "background, clutter, shadows, text, blurry",
+    "model": "9b847f98-16fe-455c-b321-1d137222e436",
+    "modelName": "Manga",
+    "customSeed": -1,
+    "w3CTraceId": "ed2c9bb3c4e3c46e24d337b5f52abdcf",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 8,
+                "doodle": [],
+                "label": "Style",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "4154626c48248424a86f865b70de993a"
+            }
+        ]
+    },
+    "upscaleFactor": 0
+}
